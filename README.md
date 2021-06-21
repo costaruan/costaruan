@@ -26,11 +26,11 @@ Em meu cargo atual como Engenheiro de Software Sênior na TIVIT | TDX, multinaci
 
 ## Linguagens
 
-- Python
 - C#
-- C++
-- JavaScript
+- Python
 - Java
+- JavaScript
+- C++
 
 ## Bancos de Dados
 
