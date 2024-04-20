@@ -2,7 +2,7 @@
 
 👋 Hi, my name is Ruan da Silva Costa.
 
-💻 I'm a Software Engineer from Brazil, passionate about developing solutions. Proficient in C# and .NET framework, with a strong background in SQL and NoSQL database technologies. Adept at leveraging Angular for building dynamic and responsive client-side applications. Demonstrates a track record of improving application efficiency and performance, leading to notable improvements in user experience and system stability.
+💻 I'm a Software Engineer from Brazil, passionate about developing solutions. Proficient in C# and .NET framework, with a strong background in SQL and NoSQL database technologies. Adept at leveraging Angular for building dynamic and responsive client-side applications.
 
 ## Skills
 
